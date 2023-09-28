@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY PERSONAL WEBSITE</title>
+    <style>
+     
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #f0f0f0;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        .container {
+            
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: lightgrey;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        p{
+            text-align: justify;
+        }
+        .desc {
+            text-align: center;
+        }
+        
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Anna Mae Almosa</h1>
+        <p class="desc">Welcome to my personal website</p>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            Hi i'm Anna Mae Almosa 17yrs old gr.11 taking at INFORMATION and COMMUNICATION TECHNOLOGY at SHS in SAN NICOLAS III,BACOOR CAVITY.I have no experience in programming but I can strives to attain the right knowledges and skills to be a great programmer in the future (puhon).
+        </p>
+        <h2>MY HOBBIES</h2>
+        <P>
+            I Like watching anime like (Hunter x Hunter,Jujutsu Kaisen etc.),love reading wattpad,then the last but not the least I like eating not juncfood it gonna hurt my kidney. 
+        </P>
+        <h2>About family</h2> 
+        <p>
+            I have 7 sisters and 2 brothers but not same father i don't flex what their name it's private.Our family is happy but not sometimes so thats all.
+        </p>
+        <h2>My Interests</h2>
+        <ul>
+            <li>Listening music</li>
+            <li>To be a good computer programmer</li>
+            <li>Reading</li>
+        </ul>
+
+        <h2>Google Account</h2>
+        <p>
+            annamaealmosa@gmail.com
+        </p>
+    </div>
+</body>
+</html>
